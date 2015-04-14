@@ -1,0 +1,8 @@
+{
+  "name": "stalker-shared",
+  "autoload": {
+    "psr-4": {
+      "StalkerShared\\":"src/"
+    }
+  }
+}
